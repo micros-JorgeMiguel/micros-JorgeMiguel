@@ -1,7 +1,7 @@
 ;******************************************************************************
 ; P0101.asm ---Encabezado
-; Created: 11/07/2019 12:19:41 p. m.
-; Author : Sergio F Hernández Machuca
+; Created: 22/08/2019
+; Author : Jorge Miguel Castillo Vasquez
 ;******************************************************************************
 ;	Revisar en:
 ; Tools -> Device Programming -> [Simulador] - [Atmega328P] -> Apply
